@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohd Aqib Khan</h1>
-<h3 align="center">A passionate frontend developer and Software Engineer from India</h3>
+<h3 align="center">A passionate Full Stack developer and Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/890f5c7081bbf01cdfb0812010132bb31a076ca323c4f232a9523fcd2a8bcfcd/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6669742f632f3138342f3138342f312a495247486d69477361313673746564517649615a66772e676966"
 - 🌱 I’m currently learning **Reactjs,Tailwind**
 
 - 📫 How to reach me **aqib62957@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1P5xpb2I34tCXQLZD9dXdxFNT7X-f7QNE/view?usp=sharing)
+- 📄 Know about my experiences [My Resume]([https://drive.google.com/file/d/1P5xpb2I34tCXQLZD9dXdxFNT7X-f7QNE/view?usp=sharing](https://drive.google.com/file/d/1aHC5-3eUsurFfPaJxnmdLKtCH2d4cZAZ/view?usp=sharing))
 
 - ⚡ Fun fact **I am Funny😊**
 
