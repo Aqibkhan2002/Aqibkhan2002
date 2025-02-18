@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **aqib62957@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1P5xpb2I34tCXQLZD9dXdxFNT7X-f7QNE/view?usp=sharing](https://drive.google.com/file/d/1aHC5-3eUsurFfPaJxnmdLKtCH2d4cZAZ/view?usp=sharing)
+- 📄 Know about my experiences [My Resume]([https://drive.google.com/file/d/1P5xpb2I34tCXQLZD9dXdxFNT7X-f7QNE/view?usp=sharing](https://drive.google.com/file/d/1aHC5-3eUsurFfPaJxnmdLKtCH2d4cZAZ/view?usp=sharing])
 
 - ⚡ Fun fact **I am Funny😊**
 
